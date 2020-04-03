@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">20180140103-Rama Soni Ravictor</string>
+    <string name="jdl">LOGIN USER</string>
+    <string name="un">Username</string>
+    <string name="ps">Password</string>
+    <string name="btn">Sign-In</string>
+    <string name="txtun">Masukkan Username</string>
+    <string name="txtpass">Masukkan Password</string>
+    <string name="m1">Menu 1</string>
+    <string name="m2">Menu 2</string>
+    <string name="m3">Menu 3</string>
+    <string name="jdl1">Menu Hitung Bangun Datar</string>
+    <string name="psg">Menghitung Persegi</string>
+    <string name="lngkr">Menghitung Lingkaran</string>
+    <string name="pnjg">Menghitung Persegi Panjang</string>
+    <string name="sg3">Menghitung Segitiga</string>
+    <string name="trpsm">Menghitung Trapesium</string>
+</resources>
